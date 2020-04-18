@@ -1,1 +1,1 @@
-# sapient-registration-server
+# registration-server
