@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.atanu.spring</groupId>
-	<artifactId>registration-server</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
-	<name>registration-server</name>
+	<artifactId>ecom-registration-server</artifactId>
+	<version>1.0.0</version>
+	<name>ecom-registration-server</name>
 	<description>Registration Rerver</description>
 
 	<properties>
