@@ -13,7 +13,7 @@
 	<artifactId>ecom-registration-server</artifactId>
 	<version>1.0.0</version>
 	<name>ecom-registration-server</name>
-	<description>Registration Rerver</description>
+	<description>Registration Server</description>
 
 	<properties>
 		<java.version>1.8</java.version>
