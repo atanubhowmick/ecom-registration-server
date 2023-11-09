@@ -1,0 +1,14 @@
+#--------------------------------------
+# Logging Properties
+#--------------------------------------
+logging:
+  level:
+    ROOT: INFO
+    '[dev.atanu.ecom]': ERROR
+  logback:
+    rollingpolicy:
+      clean-history-on-start: false
+      max-file-size: 50MB     
+  file:
+    name: log/ecom-registration-server.log
+  
